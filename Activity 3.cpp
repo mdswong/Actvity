@@ -16,7 +16,7 @@ int main()
 
      switch (month)
 {
-     case 1:
+        case 1:
 		if (day >=1 && day <= 31)
 		cout << "January " << day << ", " << year;
 		else
